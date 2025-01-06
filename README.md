@@ -16,7 +16,7 @@ The source code for EyeNet++ and pre-trained models will be released soon. Stay 
 EyeNet++ has been extensively evaluated on several large-scale datasets:
 - [SensatUrban](https://github.com/QingyongHu/SensatUrban)
 - [Toronto3D](https://github.com/Toronto3D/Toronto3D)
-- [YUTO Semantic]((https://huggingface.co/datasets/ausmlab/yuto-semantic))
+- [YUTO Semantic](https://huggingface.co/datasets/ausmlab/yuto-semantic)
 - [DALES](https://github.com/DALES/DALES)
 - [Semantic3D](http://www.semantic3d.net/)
 
@@ -29,3 +29,4 @@ The GitHub repository will include:
 
 ## Citation
 If you find this work helpful, please cite:
+paper under review
